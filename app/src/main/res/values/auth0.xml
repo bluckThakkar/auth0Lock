@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auth0_client_id">LwmgqMkNSAK2CfO87MFfiQPibxsgOdlR</string>
+    <string name="auth0_domain_name">dev-app-scan.auth0.com</string>
+    <string name="auth0_scheme">a0lwmgqmknsak2cfo87mffiqpibxsgpdlr</string>
+
+    <string name="com_auth0_client_id">LwmgqMkNSAK2CfO87MFfiQPibxsgOdlR</string>
+    <string name="com_auth0_domain">dev-app-scan.auth0.com</string>
+</resources>
